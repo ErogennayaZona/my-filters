@@ -21,6 +21,6 @@
 ||213.59.253.7^$app=com.oneme.max
 ||155.212.204.136^$app=com.oneme.max
 ||i.oneme.ru^$app=com.oneme.max
-||213.59.253.7^$app=com.oneme.max
-||213.59.254.7^$app=com.oneme.max
 ||rb.mail.ru^
+||sdk-api.apptracer.ru^
+||tracker-api.vk-analytics.ru^
