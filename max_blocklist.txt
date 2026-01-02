@@ -24,3 +24,12 @@
 ||rb.mail.ru^
 ||sdk-api.apptracer.ru^
 ||tracker-api.vk-analytics.ru^
+||oneme.ru^$app=ID_MAX
+||api.oneme.ru^$app=ID_MAX
+||i.oneme.ru^$app=ID_MAX
+||ifconfig.me^$app=ID_MAX
+||checkip.amazonaws.com^
+||api.ipify.org^
+||firebaselogging.googleapis.com^
+||mobile.webvisor.com^
+||report.appmetrica.yandex.net^
