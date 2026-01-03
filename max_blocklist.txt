@@ -42,3 +42,15 @@
 ||api.ipify.org^
 ||checkip.amazonaws.com^
 ||firebaselogging.googleapis.com^$app=MAX
+||oneme.ru^$important
+||gmscompliance-pa.googleapis.com^$app=MAX
+||oneme.ru^$important
+||api.oneme.ru^$important
+||i.oneme.ru^$important
+||sdk-api.apptracer.ru^$important
+||tracker-api.vk-analytics.ru^$important
+||gmscompliance-pa.googleapis.com^$app=MAX
+||firebaselogging.googleapis.com^$app=MAX
+||ifconfig.me^$important
+||api.ipify.org^$important
+||checkip.amazonaws.com^$important
