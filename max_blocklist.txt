@@ -33,3 +33,12 @@
 ||firebaselogging.googleapis.com^
 ||mobile.webvisor.com^
 ||report.appmetrica.yandex.net^
+||apptracer.ru^
+||vk-analytics.ru^
+||oneme.ru^
+||api.oneme.ru^
+||i.oneme.ru^
+||ifconfig.me^
+||api.ipify.org^
+||checkip.amazonaws.com^
+||firebaselogging.googleapis.com^$app=MAX
